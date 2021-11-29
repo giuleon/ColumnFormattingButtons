@@ -6,10 +6,11 @@ This is an example of how to use list formatting and the property setValue which
 
 ## Requirements
 The following columns have to be created in the Microsoft or SharePoint list:
-**Status**: choice field with some value (Pending, Available, Unavailable, Out of Stock)
-**OutOfStockYesNo**: Yes/No column
-**DecidedBy**: Person column
-**Availability**: Calculated column that displays the buttons
+
+- **Status**: choice field with some value (Pending, Available, Unavailable, Out of Stock)
+- **OutOfStockYesNo**: Yes/No column
+- **DecidedBy**: Person column
+- **Availability**: Calculated column that displays the buttons
 
 📺check my YouTube Video tutorial to follow a step-by-step guide:
 https://youtu.be/JmZKkfy3Tx8
