@@ -5,7 +5,7 @@ This is an example of how to use list formatting and the property setValue which
 ![Column Formatting setValue](./preview.png)
 
 ## Requirements
-The following column have to be created in the Microsoft or SharePoint list:
+The following columns have to be created in the Microsoft or SharePoint list:
 **Status**: choice field with some value (Pending, Available, Unavailable, Out of Stock)
 **OutOfStockYesNo**: Yes/No column
 **DecidedBy**: Person column
